@@ -7,3 +7,4 @@
 5.Execute: this script adds execute permission to the file owner
 6.Multiple permissions: this script grants X to owner and groups and R to others
 7.Everybody!: this script grants X permission to owner, group and others
+8.James Bond: this script grants all permissions to only others
