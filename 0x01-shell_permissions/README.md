@@ -8,3 +8,4 @@
 6.Multiple permissions: this script grants X to owner and groups and R to others
 7.Everybody!: this script grants X permission to owner, group and others
 8.James Bond: this script grants all permissions to only others
+9.John Doe: this script sets the permission to the stated question format
