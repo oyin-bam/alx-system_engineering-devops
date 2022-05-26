@@ -4,3 +4,4 @@
 2.Groups: this script prints the groups the user belongs to
 3.New owner: this script changes the owner of a file
 4.Empty!: this script creates an empty file
+5.Execute: this script adds execute permission to the file owner
