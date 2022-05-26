@@ -5,3 +5,4 @@
 3.New owner: this script changes the owner of a file
 4.Empty!: this script creates an empty file
 5.Execute: this script adds execute permission to the file owner
+6.Multiple permissions: this script grants X to owner and groups and R to others
