@@ -9,3 +9,4 @@
 7.Everybody!: this script grants X permission to owner, group and others
 8.James Bond: this script grants all permissions to only others
 9.John Doe: this script sets the permission to the stated question format
+10.Look in the mirror: this script clones the permisions of another file in the same directory
