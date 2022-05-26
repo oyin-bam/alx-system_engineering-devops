@@ -11,4 +11,5 @@
 9.John Doe: this script sets the permission to the stated question format
 10.Look in the mirror: this script clones the permisions of another file in the same directory
 11.Direcories: this script extends the permissions of a directory to its sub directories only, excluding files present.
-12.More directories: this script creates a directory and immediately assigns its permission 
+12.More directories: this script creates a directory and immediately assigns its permission.
+13.Change group: this script changes the group owner 
